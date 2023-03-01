@@ -1,0 +1,4 @@
+This is a simple function to add to your js error handling.
+It will open a new browser window to stack overflow and search for your error.
+
+place the function inside a catch block and pass your error as an argument.
